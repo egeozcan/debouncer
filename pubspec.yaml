@@ -1,0 +1,7 @@
+name: debouncer
+description: Provides a Debouncer class which can be initiated with a duration
+version: 0.0.1
+environment:
+  sdk: '>=1.19.0 <2.0.0'
+author: Yavuz Ege Ozcan
+homepage: https://egeozcan.com
